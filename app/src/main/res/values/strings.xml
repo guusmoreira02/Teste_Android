@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trabalho2</string>
+    <string name="title_home">Config</string>
+    <string name="title_dashboard">Relatorio</string>
+    <string name="title_notifications">Controle</string>
+    <string name="title_tarefas">Tarefas</string>
+    <string name="title_Metas">Metas</string>
+</resources>
